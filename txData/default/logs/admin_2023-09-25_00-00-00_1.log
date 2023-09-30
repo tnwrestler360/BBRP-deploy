@@ -1,0 +1,61 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/25/2023, 5:00:31 PM
+================================================================
+[17:01:16][Tyler_Davis] created admins file
+[17:02:46][Tyler_Davis] Changing global settings via setup stepper and started Deployer.
+[17:03:02][Tyler_Davis] Setting recipe.
+[17:24:50][Tyler_Davis] Running recipe.
+[17:48:55][Tyler_Davis] Completed and committed server deploy.
+[17:49:55][MONITOR] Restarting server (server failed to start within time limit - 60s, no onResourceStarting received).
+[17:51:01][MONITOR] Restarting server (server failed to start within time limit - 60s, no onResourceStarting received).
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/25/2023, 5:51:40 PM
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/25/2023, 5:54:19 PM
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/25/2023, 5:55:09 PM
+================================================================
+[17:55:58][Tyler_Davis] logged in from 127.0.0.1 via citizenfx
+[17:58:18][Tyler_Davis] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/25/2023, 6:13:53 PM
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/25/2023, 6:37:20 PM
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/25/2023, 6:42:29 PM
+================================================================
+[18:43:43][Tyler_Davis] logged in via in-game ui
+[19:37:01][Tyler_Davis] logged in from 127.0.0.1 via citizenfx
+[19:37:01][Tyler_Davis] logged in via in-game ui
+[19:37:13][Tyler_Davis] executed "ensure "qb-hud""
+[19:37:37][Tyler_Davis] executed "RESTART SERVER"
+[19:39:34][Tyler_Davis] logged in via in-game ui
+[20:18:32][Tyler_Davis] executed "RESTART SERVER"
+[20:20:22][Tyler_Davis] logged in via in-game ui
+[20:47:31][Tyler_Davis] executed "ensure "qb-storerobbery""
+[21:00:49][Tyler_Davis] executed "ensure "qb-houserobbery""
+[21:47:20][Tyler_Davis] executed "RESTART SERVER"
+[21:49:04][Tyler_Davis] logged in via in-game ui
+[22:00:40][Tyler_Davis] executed "RESTART SERVER"
+[22:01:42][Tyler_Davis] logged in via in-game ui
+[22:05:39][Tyler_Davis] executed "RESTART SERVER"
+[22:06:34][Tyler_Davis] logged in via in-game ui
+[22:08:30][Tyler_Davis] executed "RESTART SERVER"
+[22:09:25][Tyler_Davis] logged in via in-game ui
+[22:26:54][Tyler_Davis] executed "RESTART SERVER"
+[22:30:10][Tyler_Davis] executed "RESTART SERVER"
+[22:31:05][Tyler_Davis] logged in via in-game ui
+[22:47:13][Tyler_Davis] executed "RESTART SERVER"
+[22:48:08][Tyler_Davis] logged in via in-game ui
+[23:16:29][Tyler_Davis] executed "ensure "qb-phone""

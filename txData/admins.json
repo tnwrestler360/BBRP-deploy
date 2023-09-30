@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tyler_Davis",
+    "master": true,
+    "password_hash": "$2a$11$SJwAsFl2U3hwVmpfbQnOpO5fEPghCvw1rCQKB1psJUb2Y5sdB5Oqq",
+    "providers": {
+      "citizenfx": {
+        "id": "Tyler_Davis",
+        "identifier": "fivem:2137848",
+        "data": {
+          "sub": "5896c4011148c946d891df0eda29e7ad",
+          "nameid": "https://forum.cfx.re/internal/user/2137848",
+          "name": "Tyler_Davis",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/tyler_davis/256/694902_2.png",
+          "profile": "https://forum.cfx.re/u/Tyler_Davis"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

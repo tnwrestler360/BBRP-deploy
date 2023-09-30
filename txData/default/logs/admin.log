@@ -1,0 +1,270 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/26/2023, 4:48:50 PM
+================================================================
+
+================================================================
+======== Log Rotated - 9/26/2023, 4:48:50 PM                    
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/26/2023, 4:51:01 PM
+================================================================
+[16:52:01][Tyler_Davis] logged in from 127.0.0.1 via citizenfx
+[16:52:02][MONITOR] Restarting server (server failed to start within time limit - 60s, no onResourceStarting received).
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/26/2023, 4:52:16 PM
+================================================================
+[16:53:35][Tyler_Davis] logged in via in-game ui
+[19:03:40][Tyler_Davis] logged in from 127.0.0.1 via citizenfx
+[19:03:40][Tyler_Davis] logged in via in-game ui
+[19:04:03][Tyler_Davis] executed "ensure "qb-garages""
+[19:18:47][Tyler_Davis] executed "RESTART SERVER"
+[19:23:14][Tyler_Davis] logged in via in-game ui
+[19:46:59][Tyler_Davis] executed "STOP SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/26/2023, 7:49:39 PM
+================================================================
+[19:50:00][Tyler_Davis] logged in from 127.0.0.1 via citizenfx
+[20:02:23][Tyler_Davis] executed "RESTART SERVER"
+[20:03:52][Tyler_Davis] logged in via in-game ui
+[20:54:00][Tyler_Davis] executed "RESTART SERVER"
+[20:54:55][Tyler_Davis] logged in via in-game ui
+[21:01:46][Tyler_Davis] logged in via in-game ui
+[21:17:59][Tyler_Davis] executed "RESTART SERVER"
+[21:18:54][Tyler_Davis] logged in via in-game ui
+[22:01:18][Tyler_Davis] executed "RESTART SERVER"
+[22:02:14][Tyler_Davis] logged in via in-game ui
+[22:20:15][Tyler_Davis] executed "RESTART SERVER"
+[22:23:34][Tyler_Davis] executed "RESTART SERVER"
+[22:24:54][Tyler_Davis] logged in via in-game ui
+[22:25:46][Tyler_Davis] executed "RESTART SERVER"
+[22:27:56][Tyler_Davis] logged in via in-game ui
+[22:55:32][Tyler_Davis] executed "RESTART SERVER"
+[22:56:27][Tyler_Davis] logged in via in-game ui
+[23:18:11][Tyler_Davis] executed "RESTART SERVER"
+[23:19:06][Tyler_Davis] logged in via in-game ui
+[23:43:00][Tyler_Davis] executed "RESTART SERVER"
+[23:43:55][Tyler_Davis] logged in via in-game ui
+[23:45:15][Tyler_Davis] executed "stop "qb-customs""
+[23:49:45][Tyler_Davis] executed "ensure "trd-tuners-main""
+[23:54:49][Tyler_Davis] executed "ensure "trd-tuners-main""
+[00:10:57][Tyler_Davis] executed "ensure "trd-tuners-main""
+[00:38:22][Tyler_Davis] executed "RESTART SERVER"
+[00:39:27][MONITOR] Restarting server (server failed to start within time limit - 45s after last resource started).
+[07:45:19][MONITOR] Restarting server (server hang detected).
+[10:04:39][MONITOR] Restarting server (server hang detected).
+[14:48:17][MONITOR] Restarting server (server hang detected).
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/27/2023, 4:47:56 PM
+================================================================
+[16:48:18][Tyler_Davis] logged in from 127.0.0.1 via citizenfx
+[16:49:46][Tyler_Davis] logged in via in-game ui
+[17:50:55][Tyler_Davis] executed "RESTART SERVER"
+[17:52:05][Tyler_Davis] logged in via in-game ui
+[17:53:12][Tyler_Davis] executed "RESTART SERVER"
+[17:54:07][Tyler_Davis] logged in via in-game ui
+[17:54:39][Tyler_Davis] executed "RESTART SERVER"
+[17:55:43][Tyler_Davis] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/27/2023, 6:00:14 PM
+================================================================
+[18:01:39][Tyler_Davis] logged in via in-game ui
+[18:17:00][Tyler_Davis] logged in from 127.0.0.1 via citizenfx
+[18:17:00][Tyler_Davis] logged in via in-game ui
+[18:17:36][Tyler_Davis] executed "RESTART SERVER"
+[18:19:05][Tyler_Davis] logged in via in-game ui
+[18:20:30][Tyler_Davis] executed "RESTART SERVER"
+[18:21:24][Tyler_Davis] logged in via in-game ui
+[18:22:15][Tyler_Davis] executed "STOP SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/27/2023, 6:22:34 PM
+================================================================
+[18:23:19][Tyler_Davis] logged in from 127.0.0.1 via citizenfx
+[18:24:19][Tyler_Davis] logged in via in-game ui
+[18:46:33][Tyler_Davis] executed "RESTART SERVER"
+[18:48:38][Tyler_Davis] logged in via in-game ui
+[18:50:04][Tyler_Davis] executed "STOP SERVER"
+[18:50:18][Tyler_Davis] executed "START SERVER"
+[18:51:16][Tyler_Davis] logged in via in-game ui
+[19:10:27][Tyler_Davis] executed "ensure "qb-doorlock""
+[19:10:55][Tyler_Davis] executed "ensure "qb-doorlock""
+[19:21:12][Tyler_Davis] executed "ensure "qb-doorlock""
+[19:23:45][Tyler_Davis] executed "ensure "qb-doorlock""
+[19:53:12][Tyler_Davis] executed "ensure "qb-doorlock""
+[20:11:52][Tyler_Davis] executed "RESTART SERVER"
+[20:12:47][Tyler_Davis] logged in via in-game ui
+[20:15:43][Tyler_Davis] logged in via in-game ui
+[20:24:14][Tyler_Davis] executed "RESTART SERVER"
+[20:25:10][Tyler_Davis] logged in via in-game ui
+[20:38:53][Tyler_Davis] executed "RESTART SERVER"
+[20:39:58][Tyler_Davis] logged in via in-game ui
+[20:43:33][Tyler_Davis] executed "RESTART SERVER"
+[20:45:09][Tyler_Davis] executed "RESTART SERVER"
+[20:46:44][Tyler_Davis] executed "RESTART SERVER"
+[20:47:38][Tyler_Davis] logged in via in-game ui
+[21:10:37][Tyler_Davis] executed "RESTART SERVER"
+[21:11:50][Tyler_Davis] logged in via in-game ui
+[21:16:06][Tyler_Davis] logged in via in-game ui
+[22:49:04][Tyler_Davis] executed "RESTART SERVER"
+[22:51:30][Tyler_Davis] logged in via in-game ui
+[23:08:20][Tyler_Davis] executed "RESTART SERVER"
+[23:09:17][Tyler_Davis] logged in via in-game ui
+[23:20:55][Tyler_Davis] executed "STOP SERVER"
+[23:21:29][Tyler_Davis] executed "START SERVER"
+[23:22:32][Tyler_Davis] logged in via in-game ui
+[23:58:09][Tyler_Davis] executed "ensure "ps-mdt""
+[23:59:47][Tyler_Davis] executed "ensure "ps-mdt""
+[00:24:47][Tyler_Davis] executed "STOP SERVER"
+[15:53:01][Tyler_Davis] executed "START SERVER"
+[15:55:15][Tyler_Davis] logged in via in-game ui
+[16:06:57][Tyler_Davis] executed "RESTART SERVER"
+[16:07:54][Tyler_Davis] logged in via in-game ui
+[16:10:47][Tyler_Davis] logged in via in-game ui
+[16:13:40][Tyler_Davis] executed "RESTART SERVER"
+[16:14:38][Tyler_Davis] logged in via in-game ui
+[16:37:44][Tyler_Davis] executed "RESTART SERVER"
+[16:38:45][Tyler_Davis] logged in via in-game ui
+[16:46:52][Tyler_Davis] executed "RESTART SERVER"
+[16:47:54][Tyler_Davis] logged in via in-game ui
+[16:54:43][Tyler_Davis] logged in via in-game ui
+[17:33:09][Tyler_Davis] executed "RESTART SERVER"
+[17:34:06][Tyler_Davis] logged in via in-game ui
+[17:36:32][Tyler_Davis] executed "RESTART SERVER"
+[17:37:31][Tyler_Davis] executed "RESTART SERVER"
+[17:38:27][Tyler_Davis] logged in via in-game ui
+[17:42:37][Tyler_Davis] executed "RESTART SERVER"
+[17:43:34][Tyler_Davis] logged in via in-game ui
+[17:48:26][Tyler_Davis] executed "RESTART SERVER"
+[17:50:39][Tyler_Davis] executed "RESTART SERVER"
+[17:51:36][Tyler_Davis] logged in via in-game ui
+[18:12:22][Tyler_Davis] executed "RESTART SERVER"
+[18:13:21][Tyler_Davis] logged in via in-game ui
+[18:24:49][Tyler_Davis] logged in from 127.0.0.1 via citizenfx
+[18:24:49][Tyler_Davis] logged in via in-game ui
+[18:24:57][Tyler_Davis] executed "ensure "angelicxs-CivilianJobs""
+[19:48:13][Tyler_Davis] executed "ensure "angelicxs-CivilianJobs""
+[19:54:58][Tyler_Davis] executed "ensure "angelicxs-CivilianJobs""
+[21:11:47][Tyler_Davis] executed "RESTART SERVER"
+[21:14:43][Tyler_Davis] logged in via in-game ui
+[21:45:41][Tyler_Davis] executed "RESTART SERVER"
+[21:46:38][Tyler_Davis] logged in via in-game ui
+[21:55:52][Tyler_Davis] executed "ensure "e34""
+[21:56:03][Tyler_Davis] executed "RESTART SERVER"
+[21:58:23][Tyler_Davis] logged in via in-game ui
+[22:01:34][Tyler_Davis] executed "RESTART SERVER"
+[22:02:30][Tyler_Davis] logged in via in-game ui
+[22:28:30][Tyler_Davis] executed "ensure "qb-vehiclekeys""
+[22:30:45][Tyler_Davis] executed "ensure "qb-vehiclekeys""
+[22:36:55][Tyler_Davis] executed "ensure "qb-vehiclekeys""
+[22:38:38][Tyler_Davis] logged in via in-game ui
+[22:41:44][Tyler_Davis] logged in via in-game ui
+[22:42:16][Tyler_Davis] executed "ensure "qb-vehiclekeys""
+[22:45:03][Tyler_Davis] executed "ensure "qb-vehiclekeys""
+[22:46:10][Tyler_Davis] executed "ensure "qb-vehiclekeys""
+[22:58:50][Tyler_Davis] executed "ensure "qb-vehiclekeys""
+[23:02:33][Tyler_Davis] executed "ensure "qb-vehiclekeys""
+[23:47:55][Tyler_Davis] executed "RESTART SERVER"
+[23:49:00][Tyler_Davis] logged in via in-game ui
+[23:49:48][Tyler_Davis] executed "RESTART SERVER"
+[23:51:33][Tyler_Davis] logged in via in-game ui
+[23:56:12][Tyler_Davis] executed "ensure "drc_houserobbery""
+[00:03:50][Tyler_Davis] executed "RESTART SERVER"
+[00:04:47][Tyler_Davis] logged in via in-game ui
+[00:05:36][Tyler_Davis] executed "ensure "drc_houserobbery""
+[00:27:35][Tyler_Davis] executed "RESTART SERVER"
+[00:29:25][Tyler_Davis] logged in via in-game ui
+[00:30:03][Tyler_Davis] executed "ensure "drc_houserobbery""
+[00:38:12][Tyler_Davis] executed "ensure "drc_houserobbery""
+[00:38:26][Tyler_Davis] executed "RESTART SERVER"
+[00:40:10][Tyler_Davis] logged in via in-game ui
+[00:41:29][Tyler_Davis] executed "ensure "drc_houserobbery""
+[00:44:54][Tyler_Davis] executed "ensure "drc_houserobbery""
+[00:45:22][Tyler_Davis] executed "ensure "drc_houserobbery""
+[00:47:06][Tyler_Davis] executed "RESTART SERVER"
+[00:48:23][Tyler_Davis] logged in via in-game ui
+[00:49:27][Tyler_Davis] executed "ensure "drc_houserobbery""
+[07:56:17][MONITOR] Restarting server (server hang detected).
+[08:30:15][MONITOR] Restarting server (server hang detected).
+[16:10:13][Tyler_Davis] logged in via in-game ui
+[16:21:51][Tyler_Davis] executed "RESTART SERVER"
+[16:22:48][Tyler_Davis] logged in via in-game ui
+[16:35:02][Tyler_Davis] executed "ensure "qb-pawnshop""
+[16:39:46][Tyler_Davis] executed "ensure "drc_houserobbery""
+[18:52:28][Tyler_Davis] logged in via in-game ui
+[19:34:14][Tyler_Davis] logged in from 127.0.0.1 via citizenfx
+[19:49:10][Tyler_Davis] executed "RESTART SERVER"
+[19:50:11][Tyler_Davis] logged in via in-game ui
+[20:07:49][Tyler_Davis] executed "ensure "qb-bankrobbery""
+[20:13:48][Tyler_Davis] executed "ensure "qb-banking""
+[20:14:51][Tyler_Davis] logged in via in-game ui
+[20:15:38][Tyler_Davis] executed "RESTART SERVER"
+[20:16:37][Tyler_Davis] logged in via in-game ui
+[20:40:19][Tyler_Davis] executed "RESTART SERVER"
+[20:43:50][Tyler_Davis] logged in via in-game ui
+[21:03:56][Tyler_Davis] executed "RESTART SERVER"
+[21:04:56][Tyler_Davis] logged in via in-game ui
+[21:17:03][Tyler_Davis] executed "RESTART SERVER"
+[21:18:10][Tyler_Davis] logged in via in-game ui
+[21:34:05][Tyler_Davis] executed "ensure "qb-bankrobbery""
+[22:25:49][Tyler_Davis] executed "RESTART SERVER"
+[22:26:47][Tyler_Davis] logged in via in-game ui
+[22:29:24][Tyler_Davis] executed "RESTART SERVER"
+[22:30:39][Tyler_Davis] logged in via in-game ui
+[23:17:40][Tyler_Davis] executed "RESTART SERVER"
+[23:18:39][Tyler_Davis] logged in via in-game ui
+[23:25:51][Tyler_Davis] executed "ensure "fd-oxyrun""
+[00:06:06][Tyler_Davis] executed "RESTART SERVER"
+[00:07:04][Tyler_Davis] logged in via in-game ui
+[00:09:46][Tyler_Davis] executed "ensure "fd-oxyrun""
+[00:21:38][Tyler_Davis] executed "RESTART SERVER"
+[00:22:00][Tyler_Davis] executed "RESTART SERVER"
+[00:22:59][Tyler_Davis] logged in via in-game ui
+[00:24:35][Tyler_Davis] executed "ensure "fd-oxyrun""
+[00:55:06][Tyler_Davis] executed "ensure "lightsout""
+[01:24:23][Tyler_Davis] executed "RESTART SERVER"
+[01:25:27][Tyler_Davis] logged in via in-game ui
+[01:45:30][Tyler_Davis] executed "ensure "qb-bankrobbery""
+[01:59:06][Tyler_Davis] executed "ensure "fd-oxyrun""
+[03:30:22][MONITOR] Restarting server (server hang detected).
+[08:54:50][MONITOR] Restarting server (server partial hang detected).
+[10:51:14][Tyler_Davis] logged in via in-game ui
+[11:21:35][Tyler_Davis] executed "RESTART SERVER"
+[11:23:23][Tyler_Davis] logged in via in-game ui
+[11:32:49][Tyler_Davis] executed "RESTART SERVER"
+[11:33:57][Tyler_Davis] logged in via in-game ui
+[11:39:36][Tyler_Davis] executed "RESTART SERVER"
+[11:40:45][Tyler_Davis] logged in via in-game ui
+[11:42:00][Tyler_Davis] executed "RESTART SERVER"
+[11:42:57][Tyler_Davis] logged in via in-game ui
+[11:47:28][Tyler_Davis] executed "RESTART SERVER"
+[11:48:28][Tyler_Davis] logged in via in-game ui
+[11:51:23][Tyler_Davis] executed "RESTART SERVER"
+[11:52:20][Tyler_Davis] logged in via in-game ui
+[12:03:22][Tyler_Davis] logged in via in-game ui
+[12:10:27][Tyler_Davis] executed "RESTART SERVER"
+[12:11:25][Tyler_Davis] logged in via in-game ui
+[12:19:30][Tyler_Davis] executed "STOP SERVER"
+[12:25:56][Tyler_Davis] executed "START SERVER"
+[12:27:57][Tyler_Davis] logged in via in-game ui
+[13:07:52][Tyler_Davis] executed "RESTART SERVER"
+[13:09:42][Tyler_Davis] logged in via in-game ui
+[13:19:00][Tyler_Davis] executed "ensure "qb-bankrobbery""
+[13:20:10][Tyler_Davis] executed "stop "qb-target""
+[13:21:06][Tyler_Davis] executed "ensure "fd-oxyrun""
+[13:21:25][Tyler_Davis] executed "ensure "qb-bankrobbery""
+[13:25:20][Tyler_Davis] executed "RESTART SERVER"
+[13:26:20][Tyler_Davis] logged in via in-game ui
+[13:29:51][Tyler_Davis] executed "ensure "fd-oxyrun""
+[13:42:19][Tyler_Davis] executed "ensure "fd-oxyrun""
+[13:45:04][Tyler_Davis] executed "ensure "fd-oxyrun""
+[13:49:36][Tyler_Davis] executed "ensure "fd-oxyrun""
+[13:54:31][Tyler_Davis] executed "RESTART SERVER"
+[13:55:06][Tyler_Davis] executed "RESTART SERVER"
+[13:59:23][Tyler_Davis] logged in via in-game ui
+[14:04:26][Tyler_Davis] executed "ensure "qb-towjob""
